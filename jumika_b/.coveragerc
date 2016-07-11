@@ -1,0 +1,3 @@
+[run]
+source = jumika_b
+omit = jumika_b/test*
